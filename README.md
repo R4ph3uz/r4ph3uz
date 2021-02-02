@@ -17,7 +17,7 @@ I learn on my own all these things (with the help of internet :smile:).
       - Basics of hacking (💻)
 
 ## How you can reach me
-- ![Discord](https://github.com/R4ph3uz/r4ph3uz/blob/main/6752_Discord_resize.png)
+- ![Discord](https://github.com/R4ph3uz/r4ph3uz/blob/main/6752_Discord_resize20-20.png)
 - 📧 [r4ph3uz-contact@yahoo.com](mailto:r4ph3uz-contact@yahoo.com)
 ___
 - ⚡ Fun fact: I started to like computers when I broke Windows by touching all the settings.
