@@ -13,11 +13,9 @@ I learn on my own all these things (with the help of internet :smile:).
 - 💻 I always want my Linux to be perfect, so I try to improve it constantly.
 - 🌱 I’m currently learning a lot of things :
 
-      - Advanced Python Programming
-
-      - Advanced CSS skills 
-      
-      - Basics of hacking (💻)
+    - Advanced Python Programming
+    - Advanced CSS skills 
+    - Basics of hacking (💻)
 
 ## How you can reach me
 - ![Discord](https://github.com/R4ph3uz/r4ph3uz/blob/main/discord.png) R4ph3uz#1345
