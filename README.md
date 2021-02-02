@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi everyone 👋
 
-<!--
-**R4ph3uz/r4ph3uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+<!-- It's nice to look at this code but look at the code of my other repositories instead 😀 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Who am I ?
+  I'm a french student, passionated for new technologies since my earliest childhood, computing science particularly attracted me.
+I learn on my own all these things (with the help of internet :smile:).
+
+## What I am currently doing (coding ? 😄)
+
+- 🎪 Actually I work on [lagadjolita.fr](lagadjolita.fr). Creating a website for my favorite (💓) circus association !
+- 🐍 But I work also on easy scripts in python or bash/shell to simplify my life.
+- 💻 I always want my Linux to be perfect, so I try to improve it constantly.
+- 🌱 I’m currently learning a lot of things : 
+      - Advanced Python Programming
+      - Advanced CSS skills 
+      - Basics of hacking (💻)
+
+## How you can reach me
+- ![Discord](link to ds)
+- 📧 [mailto:r4ph3uz-contact@yahoo.com](r4ph3uz-contact@yahoo.com)
+
+- ⚡ Fun fact: I started to like computers when I broke Windows by touching all the settings.
 --> :+1:
