@@ -11,9 +11,12 @@ I learn on my own all these things (with the help of internet :smile:).
 - 🎪 Actually I work on [lagadjolita.fr](https://lagadjolita.fr). Creating a website for my favorite (💓) circus association !
 - 🐍 But I work also on easy scripts in python or bash/shell to simplify my life.
 - 💻 I always want my Linux to be perfect, so I try to improve it constantly.
-- 🌱 I’m currently learning a lot of things : 
+- 🌱 I’m currently learning a lot of things :
+
       - Advanced Python Programming
+
       - Advanced CSS skills 
+      
       - Basics of hacking (💻)
 
 ## How you can reach me
