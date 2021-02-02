@@ -18,7 +18,7 @@ I learn on my own all these things (with the help of internet :smile:).
 
 ## How you can reach me
 - ![Discord](link to ds)
-- 📧 [mailto:r4ph3uz-contact@yahoo.com](r4ph3uz-contact@yahoo.com)
+- 📧 [r4ph3uz-contact@yahoo.com](mailto:r4ph3uz-contact@yahoo.com)
 
 - ⚡ Fun fact: I started to like computers when I broke Windows by touching all the settings.
 --> :+1:
