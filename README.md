@@ -15,10 +15,14 @@ I learn on my own all these things (with the help of internet :smile:).
 
     - Advanced Python Programming
     - Advanced CSS skills 
+    - Advanced JS skills and Js framework
     - Basics of hacking (💻)
+
 
 ## How you can reach me
 - ![Discord](https://github.com/R4ph3uz/r4ph3uz/blob/main/discord.png) R4ph3uz#1345
 - 📧 [r4ph3uz-contact@yahoo.com](mailto:r4ph3uz-contact@yahoo.com)
+<!-- - [website in creation(raphael.euzeby.com) -->
 ___
-- ⚡ Fun fact: I started to like computers when I broke my Windows by changing all the settings.
+- ⚡ Fun fact: I started to like computers when I broke my Windows by deleting all the settings 😅
+    Now I'm on Linux, everything fine!
