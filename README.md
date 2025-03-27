@@ -42,7 +42,7 @@ ___
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /> [linkedin.com/in/raphael-euzeby](https://fr.linkedin.com/in/raphael-euzeby)
 - ![Discord](images/discord.png) R4ph3uz (ex: R4ph3uz#1345)  
 - 📧 [r4ph3uz-github@yahoo.com](mailto:r4ph3uz-github@yahoo.com)
-- 🖥️ [my website](https://raphael.euzeby.com)
+- 🖥️ [my website](https://euzeby.com)
 
 ___
 
